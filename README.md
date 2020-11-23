@@ -1,3 +1,4 @@
+# Team Achintya
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+We're a team of people from different fields with growth mindset.
+
+- :heart: We are the part of **Sophist**
+
+- :tada: We are part of **Sophist Coding League**
